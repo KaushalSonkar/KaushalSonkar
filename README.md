@@ -1,6 +1,6 @@
-👋 Hi, I'm Kaushal Raj Sonkar
+<div align="center"><img src="./profile.png" width="220" style="border-radius:50%;" />👋 Hi, I'm Kaushal Raj Sonkar
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Node.js+Developer;React+%26+Next.js+Developer;Building+Websites+and+Apps;Always+Learning+New+Things" /></div>---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Node.js+Developer;React+%26+Next.js+Developer;Building+Websites+and+Apps;Always+Learning+New+Things" /></div>---
 
 🚀 About Me
 
@@ -63,7 +63,5 @@ $ mindset
 Build → Learn → Improve → Repeat
 
 ---
-
-<div align="center"><img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" /></div>---
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:0077FF&section=footer"/></div>
