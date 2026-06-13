@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./banner.png" width="220" />
-
-<br><br>
-
 <img src="./profile.png" width="180" />
 
 # Kaushal Raj Sonkar
